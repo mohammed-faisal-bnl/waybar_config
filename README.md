@@ -1,1 +1,0 @@
-# waybar_config
