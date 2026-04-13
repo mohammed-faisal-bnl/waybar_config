@@ -35,7 +35,7 @@ tooltip label {
     padding: 0 18px;
     margin: 5px 0 5px 12px;
     border-radius: 50px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 #workspaces {
@@ -52,7 +52,7 @@ tooltip label {
     color: @grey0;
     background-color: transparent;
     transition: all 0.68s cubic-bezier(0.46, 1, 0.29, 0.99);
-    font-size: 13px;
+    font-size: 12px;
     min-width: 20px;
 }
 
